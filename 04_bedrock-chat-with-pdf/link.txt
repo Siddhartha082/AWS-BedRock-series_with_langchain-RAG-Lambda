@@ -1,3 +1,0 @@
-
-Gen Ai - Chat with your PDF - Gen AI App - With Amazon Bedrock, RAG, S3, Langchain and Streamlit [Hands-On
-https://youtu.be/KFibP7KnDVM?si=EWNuMNcD3NSeUYWk
