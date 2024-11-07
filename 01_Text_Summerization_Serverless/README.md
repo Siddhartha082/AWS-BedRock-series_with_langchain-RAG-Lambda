@@ -1,7 +1,6 @@
 # Text Summarization - Generative AI Application [Hands-On]
 ## Built Using Amazon Bedrock - Cohere FM, Lambda, Python, Docker, Streamlit
 ## Models used:
-## practicals + Diagram + other details updated in this notes- PDF 
     Cohere FM (Foundation Model)
 
 ## Introduction
